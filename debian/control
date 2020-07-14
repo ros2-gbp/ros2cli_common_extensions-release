@@ -1,0 +1,12 @@
+Source: ros-foxy-ros2cli-common-extensions
+Section: misc
+Priority: optional
+Maintainer: Ivan Santiago Paunovic <ivanpauno@ekumenlabs.com>
+Build-Depends: debhelper (>= 9.0.0), ros-foxy-ament-cmake, ros-foxy-ament-lint-auto, ros-foxy-ament-lint-common, ros-foxy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-foxy-ros2cli-common-extensions
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-foxy-launch-xml, ros-foxy-launch-yaml, ros-foxy-ros2action, ros-foxy-ros2cli, ros-foxy-ros2component, ros-foxy-ros2doctor, ros-foxy-ros2interface, ros-foxy-ros2launch, ros-foxy-ros2lifecycle, ros-foxy-ros2multicast, ros-foxy-ros2node, ros-foxy-ros2param, ros-foxy-ros2pkg, ros-foxy-ros2run, ros-foxy-ros2service, ros-foxy-ros2topic, ros-foxy-sros2, ros-foxy-ros-workspace
+Description: Meta package for ros2cli common extensions
