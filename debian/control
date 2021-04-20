@@ -1,0 +1,12 @@
+Source: ros-galactic-ros2cli-common-extensions
+Section: misc
+Priority: optional
+Maintainer: Chris Lalancette <clalancette@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-galactic-ament-cmake, ros-galactic-ament-lint-auto, ros-galactic-ament-lint-common, ros-galactic-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-galactic-ros2cli-common-extensions
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-galactic-launch-xml, ros-galactic-launch-yaml, ros-galactic-ros2action, ros-galactic-ros2cli, ros-galactic-ros2component, ros-galactic-ros2doctor, ros-galactic-ros2interface, ros-galactic-ros2launch, ros-galactic-ros2lifecycle, ros-galactic-ros2multicast, ros-galactic-ros2node, ros-galactic-ros2param, ros-galactic-ros2pkg, ros-galactic-ros2run, ros-galactic-ros2service, ros-galactic-ros2topic, ros-galactic-sros2, ros-galactic-ros-workspace
+Description: Meta package for ros2cli common extensions
