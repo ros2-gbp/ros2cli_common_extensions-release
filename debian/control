@@ -1,0 +1,12 @@
+Source: ros-humble-ros2cli-common-extensions
+Section: misc
+Priority: optional
+Maintainer: Chris Lalancette <clalancette@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake, ros-humble-ament-lint-auto <!nocheck>, ros-humble-ament-lint-common <!nocheck>, ros-humble-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-humble-ros2cli-common-extensions
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-launch-xml, ros-humble-launch-yaml, ros-humble-ros2action, ros-humble-ros2cli, ros-humble-ros2component, ros-humble-ros2doctor, ros-humble-ros2interface, ros-humble-ros2launch, ros-humble-ros2lifecycle, ros-humble-ros2multicast, ros-humble-ros2node, ros-humble-ros2param, ros-humble-ros2pkg, ros-humble-ros2run, ros-humble-ros2service, ros-humble-ros2topic, ros-humble-sros2, ros-humble-ros-workspace
+Description: Meta package for ros2cli common extensions
