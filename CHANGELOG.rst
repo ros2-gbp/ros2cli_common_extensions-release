@@ -2,6 +2,11 @@
 Changelog for package ros2cli_common_extensions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.1 (2022-09-13)
+------------------
+* Update maintainers (`#6 <https://github.com/ros2/ros2cli_common_extensions/issues/6>`_)
+* Contributors: methylDragon
+
 0.2.0 (2022-04-29)
 ------------------
 
