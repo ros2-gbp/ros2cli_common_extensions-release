@@ -1,3 +1,26 @@
+## ros2cli_common_extensions (rolling) - 0.4.0-1
+
+The packages in the `ros2cli_common_extensions` repository were released into the `rolling` distro by running `/usr/bin/bloom-release ros2cli_common_extensions --rosdistro rolling --non-interactive` on `Fri, 26 Apr 2024 18:40:32 -0000`
+
+The `ros2cli_common_extensions` package was released.
+
+Version of package(s) in repository `ros2cli_common_extensions`:
+
+- upstream repository: https://github.com/ros2/ros2cli_common_extensions.git
+- release repository: https://github.com/ros2-gbp/ros2cli_common_extensions-release.git
+- rosdistro version: `0.3.0-2`
+- old version: `0.3.0-2`
+- new version: `0.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ros2cli_common_extensions (rolling) - 0.3.0-1
 
 The packages in the `ros2cli_common_extensions` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling ros2cli_common_extensions` on `Fri, 28 Apr 2023 10:05:28 -0000`
