@@ -1,0 +1,12 @@
+Source: ros-rolling-ros2cli-common-extensions
+Section: misc
+Priority: optional
+Maintainer: Dharini Dutia <dharini@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ament-cmake, ament-cmake-copyright <!nocheck>, ament-cmake-cppcheck <!nocheck>, ament-cmake-cpplint <!nocheck>, ament-cmake-flake8 <!nocheck>, ament-cmake-lint-cmake <!nocheck>, ament-cmake-pep257 <!nocheck>, ament-cmake-uncrustify <!nocheck>, ament-cmake-xmllint <!nocheck>, ament-lint <!nocheck>, ros-rolling-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-rolling-ros2cli-common-extensions
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-rolling-launch-xml, ros-rolling-launch-yaml, ros-rolling-ros2action, ros-rolling-ros2cli, ros-rolling-ros2component, ros-rolling-ros2doctor, ros-rolling-ros2interface, ros-rolling-ros2launch, ros-rolling-ros2lifecycle, ros-rolling-ros2multicast, ros-rolling-ros2node, ros-rolling-ros2param, ros-rolling-ros2pkg, ros-rolling-ros2run, ros-rolling-ros2service, ros-rolling-ros2topic, ros-rolling-sros2, ros-rolling-ros-workspace
+Description: Meta package for ros2cli common extensions
