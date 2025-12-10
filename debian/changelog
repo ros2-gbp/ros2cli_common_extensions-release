@@ -1,0 +1,68 @@
+ros-rolling-ros2cli-common-extensions (0.5.2-1bookworm) bookworm; urgency=high
+
+  * Add dependency on ros2plugin in package.xml (#13 <https://github.com/ros2/ros2cli_common_extensions/issues/13>)
+  * Contributors: Maurice Alexander Purnawan
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Tue, 09 Dec 2025 23:00:00 -0000
+
+ros-rolling-ros2cli-common-extensions (0.5.1-1bookworm) bookworm; urgency=high
+
+  * Update CMakeLists.txt (#11 <https://github.com/ros2/ros2cli_common_extensions/issues/11>)
+  * Contributors: mosfet80
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Mon, 30 Jun 2025 22:00:00 -0000
+
+ros-rolling-ros2cli-common-extensions (0.5.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Thu, 24 Apr 2025 22:00:00 -0000
+
+ros-rolling-ros2cli-common-extensions (0.4.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Thu, 25 Apr 2024 22:00:00 -0000
+
+ros-rolling-ros2cli-common-extensions (0.3.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Thu, 27 Apr 2023 22:00:00 -0000
+
+ros-rolling-ros2cli-common-extensions (0.2.2-1bookworm) bookworm; urgency=high
+
+  * [rolling] Update maintainers - 2022-11-07 (#7 <https://github.com/ros2/ros2cli_common_extensions/issues/7>)
+  * Contributors: Audrow Nash
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Mon, 13 Feb 2023 23:00:00 -0000
+
+ros-rolling-ros2cli-common-extensions (0.2.1-1bookworm) bookworm; urgency=high
+
+  * Update maintainers (#6 <https://github.com/ros2/ros2cli_common_extensions/issues/6>)
+  * Contributors: methylDragon
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Mon, 12 Sep 2022 22:00:00 -0000
+
+ros-rolling-ros2cli-common-extensions (0.2.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Thu, 28 Apr 2022 22:00:00 -0000
+
+ros-rolling-ros2cli-common-extensions (0.1.1-1bookworm) bookworm; urgency=high
+
+  * remove maintainer (#5 <https://github.com/ros2/ros2cli_common_extensions/issues/5>)
+  * update maintainer (#4 <https://github.com/ros2/ros2cli_common_extensions/issues/4>)
+  * Contributors: Claire Wang
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Wed, 17 Mar 2021 23:00:00 -0000
+
+ros-rolling-ros2cli-common-extensions (0.1.0-1bookworm) bookworm; urgency=high
+
+  * First implementation (#2 <https://github.com/ros2/ros2cli_common_extensions/issues/2>)
+  * Contributors: Bo Sun
+
+ -- Dharini Dutia <dharini@openrobotics.org>  Sun, 12 Jul 2020 22:00:00 -0000
+
+
