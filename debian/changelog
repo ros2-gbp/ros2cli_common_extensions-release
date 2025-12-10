@@ -1,0 +1,25 @@
+ros-humble-ros2cli-common-extensions (0.1.2-1jammy) jammy; urgency=high
+
+  * Add dependency on ros2plugin in package.xml (#13 <https://github.com/ros2/ros2cli_common_extensions/issues/13>) (#16 <https://github.com/ros2/ros2cli_common_extensions/issues/16>)
+    (cherry picked from commit 213e52a9e28de35f9879e48f75fe556d362e74ef)
+    Co-authored-by: Maurice Alexander Purnawan <mailto:mauricepurnawan@gmail.com>
+  * Contributors: mergify[bot]
+
+ -- Chris Lalancette <clalancette@openrobotics.org>  Tue, 09 Dec 2025 23:00:00 -0000
+
+ros-humble-ros2cli-common-extensions (0.1.1-1jammy) jammy; urgency=high
+
+  * remove maintainer (#5 <https://github.com/ros2/ros2cli_common_extensions/issues/5>)
+  * update maintainer (#4 <https://github.com/ros2/ros2cli_common_extensions/issues/4>)
+  * Contributors: Claire Wang
+
+ -- Chris Lalancette <clalancette@openrobotics.org>  Wed, 17 Mar 2021 23:00:00 -0000
+
+ros-humble-ros2cli-common-extensions (0.1.0-1jammy) jammy; urgency=high
+
+  * First implementation (#2 <https://github.com/ros2/ros2cli_common_extensions/issues/2>)
+  * Contributors: Bo Sun
+
+ -- Chris Lalancette <clalancette@openrobotics.org>  Sun, 12 Jul 2020 22:00:00 -0000
+
+
