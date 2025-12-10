@@ -1,3 +1,26 @@
+## ros2cli_common_extensions (jazzy) - 0.3.1-1
+
+The packages in the `ros2cli_common_extensions` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --track jazzy ros2cli_common_extensions` on `Wed, 10 Dec 2025 13:33:02 -0000`
+
+The `ros2cli_common_extensions` package was released.
+
+Version of package(s) in repository `ros2cli_common_extensions`:
+
+- upstream repository: https://github.com/ros2/ros2cli_common_extensions.git
+- release repository: https://github.com/ros2-gbp/ros2cli_common_extensions-release.git
+- rosdistro version: `0.3.0-3`
+- old version: `0.3.0-3`
+- new version: `0.3.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## ros2cli_common_extensions (kilted) - 0.4.1-1
 
 The packages in the `ros2cli_common_extensions` repository were released into the `kilted` distro by running `/usr/bin/bloom-release --rosdistro kilted --track kilted ros2cli_common_extensions` on `Wed, 10 Dec 2025 13:19:07 -0000`
