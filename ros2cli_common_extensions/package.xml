@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>ros2cli_common_extensions</name>
-  <version>0.4.0</version>
+  <version>0.4.1</version>
   <description>Meta package for ros2cli common extensions</description>
 
   <maintainer email="dharini@openrobotics.org">Dharini Dutia</maintainer>
@@ -28,6 +28,7 @@
   <exec_depend>ros2node</exec_depend>
   <exec_depend>ros2param</exec_depend>
   <exec_depend>ros2pkg</exec_depend>
+  <exec_depend>ros2plugin</exec_depend>
   <exec_depend>ros2run</exec_depend>
   <exec_depend>ros2service</exec_depend>
   <exec_depend>ros2topic</exec_depend>
