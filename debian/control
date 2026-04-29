@@ -1,0 +1,12 @@
+Source: ros-lyrical-ros2cli-common-extensions
+Section: misc
+Priority: optional
+Maintainer: Dharini Dutia <dharini@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-lyrical-ament-cmake, ros-lyrical-ament-lint-auto <!nocheck>, ros-lyrical-ament-lint-common <!nocheck>, ros-lyrical-ros-workspace
+Homepage: https://index.ros.org/p/ros2cli_common_extensions/#lyrical
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-ros2cli-common-extensions
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lyrical-launch-xml, ros-lyrical-launch-yaml, ros-lyrical-ros2action, ros-lyrical-ros2cli, ros-lyrical-ros2component, ros-lyrical-ros2doctor, ros-lyrical-ros2interface, ros-lyrical-ros2launch, ros-lyrical-ros2lifecycle, ros-lyrical-ros2multicast, ros-lyrical-ros2node, ros-lyrical-ros2param, ros-lyrical-ros2pkg, ros-lyrical-ros2plugin, ros-lyrical-ros2run, ros-lyrical-ros2service, ros-lyrical-ros2topic, ros-lyrical-sros2, ros-lyrical-ros-workspace
+Description: Meta package for ros2cli common extensions
